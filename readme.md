@@ -1,4 +1,3 @@
-## Code for the paper "Enabling Low-Resource Language Retrieval: Establishing Baselines for Urdu MS MARCO" 
 
 This is the code repository for the paper:
 https://arxiv.org/abs/2412.12997
